@@ -1,5 +1,4 @@
-# OU-CSI5130
-Self driving car project
+# OU-CSI5130 Self driving car project
 
 We use behavior cloning technique via Machine Learning and Convolutional Neural Network (CNN).  
 1. The training data is based on people’s actual driving behavior in car simulator 
